@@ -41,7 +41,7 @@ Lowe(2017)은 중앙 Critic을 사용하는 Policy Gradient 알고리즘을 제�
 # 3. Background
 ## 3.1. Stochastic Game
 Partially Observable 환경의 Stochastic Game으로 모델링한다.
-$$G=<S,U,P,r,Z,O,n,\gamma>$$
+$G=<S,U,P,r,Z,O,n,\gamma>$
 - S는 상태 집합
 - U는 joint action
 - P는 Dynamics
